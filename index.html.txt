@@ -1,0 +1,6 @@
+inicio
+	head
+		Minha primeira pagina
+		
+	end head
+end
